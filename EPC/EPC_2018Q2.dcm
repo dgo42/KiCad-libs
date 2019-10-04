@@ -1,0 +1,223 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPC2001C
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2001C.aspx
+$ENDCMP
+#
+$CMP EPC2007C
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2007C_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2010C
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2010C.aspx
+$ENDCMP
+#
+$CMP EPC2012C
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2012C.aspx
+$ENDCMP
+#
+$CMP EPC2014C
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2014C_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2015C
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2015C.aspx
+$ENDCMP
+#
+$CMP EPC2016C
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2016C.aspx
+$ENDCMP
+#
+$CMP EPC2019
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2019.aspx
+$ENDCMP
+#
+$CMP EPC2020
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2020.aspx
+$ENDCMP
+#
+$CMP EPC2021
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2021.aspx
+$ENDCMP
+#
+$CMP EPC2022
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2022.aspx
+$ENDCMP
+#
+$CMP EPC2023
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2023.aspx
+$ENDCMP
+#
+$CMP EPC2024
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2024.aspx
+$ENDCMP
+#
+$CMP EPC2029
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2029_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2030
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2030_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2031
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2031_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2032
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2032_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2033
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2034
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2034_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2034C
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2034C_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2035
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2035_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2036
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2036_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2037
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2037_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2038
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2035_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2039
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2039_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2040
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2040_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2045
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2045_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2046
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2046_preliminary.pdf
+$ENDCMP
+#
+$CMP EPC2047
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2047_preliminary.pdf
+$ENDCMP
+#
+$CMP EPC2049
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2049_preliminary.pdf
+$ENDCMP
+#
+$CMP EPC2050
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2050_preliminary.pdf
+$ENDCMP
+#
+$CMP EPC2051
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2051_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2052
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2052_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2100
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2100.aspx
+$ENDCMP
+#
+$CMP EPC2101
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2101.aspx
+$ENDCMP
+#
+$CMP EPC2102
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2102.aspx
+$ENDCMP
+#
+$CMP EPC2103
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2103.aspx
+$ENDCMP
+#
+$CMP EPC2104
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2104.aspx
+$ENDCMP
+#
+$CMP EPC2105
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2105.aspx
+$ENDCMP
+#
+$CMP EPC2106
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2106_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2107
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2107_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2108
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2108_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2110
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2110_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2111
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2111_preliminary.pdf
+$ENDCMP
+#
+$CMP EPC2112
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2112_preliminary.pdf
+$ENDCMP
+#
+$CMP EPC2115
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2115_preliminary.pdf
+$ENDCMP
+#
+$CMP EPC2202
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2202.aspx
+$ENDCMP
+#
+$CMP EPC2203
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2203_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC2206
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2206.aspx
+$ENDCMP
+#
+$CMP EPC2212
+F https://epc-co.com/epc/Products/eGaNFETs/EPC2212.aspx
+$ENDCMP
+#
+$CMP EPC2214
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2214_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC8002
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8002_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC8004
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8004_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC8009
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8009_datasheet.pdf
+$ENDCMP
+#
+$CMP EPC8010
+F https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC8010_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
